@@ -1,0 +1,28 @@
+[
+  {
+    "Username": "GAK",
+    "Attributes": [
+      { "Name": "sub", "Value": "d2c03be4-25f3-4be3-8b30-f137a8578ad3" },
+      { "Name": "email_verified", "Value": "true" },
+      { "Name": "email", "Value": "gak@example.com" },
+      { "Name": "name", "Value": "ANIL KUMAR G" },
+      { "Name": "preferred_username", "Value": "GAK" }
+    ],
+    "UserCreateDate": "2024-01-23T02:40:26.413000+05:30",
+    "UserLastModifiedDate": "2024-01-23T02:40:26.413000+05:30",
+    "Enabled": true,
+    "UserStatus": "CONFIRMED"
+  },
+  {
+    "Username": "AKG",
+    "Attributes": [
+      { "Name": "sub", "Value": "c4dc04ea-6453-4731-bddc-aef2d77bd4d0" },
+      { "Name": "email_verified", "Value": "true" },
+      { "Name": "email", "Value": "akg@example.com" }
+    ],
+    "UserCreateDate": "2024-01-17T17:03:13.142000+05:30",
+    "UserLastModifiedDate": "2024-01-17T17:03:13.142000+05:30",
+    "Enabled": true,
+    "UserStatus": "CONFIRMED"
+  }
+]
